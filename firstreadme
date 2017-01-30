@@ -1,0 +1,42 @@
+- Git Vs GitHub:
+
+Git is a free and open source distributed version control system designed to handle everything from small to very 
+large projects with speed and efficiency.
+
+
+GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control 
+and source code management (SCM) functionality of Git as well as adding its own features.
+
+- Labels and milestones, and why are they particularly useful in agile software development:
+
+Labels are a great way to organize different types of issues. Issues can have as many labels as you want, 
+and you can filter by one or many labels at once.
+
+Milestones are groups of issues that correspond to a project, feature, or time period. 
+People use them in many different ways in software development.
+
+- How can you document a project on GitHub? Why would you want to do this?
+
+
+
+- Write a tutorial on hosting a site using GitHub Pages:
+
+1. Create your project's repository. Login to your GitHub account and go to 
+https://github.com/new or click the New repository icon from your account homepage.
+
+2. Name your repository username.github.io, replacing username with your GitHub username. 
+Be sure it is public and go ahead and tell GitHub to create a README file upon generating the repo.
+
+3. Create an index.html page by clicking the plus icon next to 
+your repository name and typing the file name directly in the input box that appears.
+
+4. Commit index.html. At the bottom of the page, there is a text input area to add 
+a description of your changes and a button to commit the file.
+
+5. To style the content go back to your repository home and create a new 
+file named css/main.css. The css/ before the filename will automatically create a subdirectory called css. Pretty neat.
+
+6. Link to your CSS file inside your HTML document's <head>. 
+Go back to index.html and select the "Edit" button.
+
+Visit http://username.github.io to see your styled website.
