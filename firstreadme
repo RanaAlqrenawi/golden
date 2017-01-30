@@ -16,7 +16,14 @@ Milestones are groups of issues that correspond to a project, feature, or time p
 People use them in many different ways in software development.
 
 - How can you document a project on GitHub? Why would you want to do this?
+Two common ways to document a project are README files and wikis:
 
+1. README files are a quick and simple way for other users to learn more about your work.
+
+2. Wikis on GitHub help you present in-depth information about your project in a useful way.
+
+It’s a good idea to at least have a README on your project, 
+because it’s the first thing many people will read when they first find your work.
 
 
 - Write a tutorial on hosting a site using GitHub Pages:
